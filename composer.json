@@ -1,5 +1,5 @@
 {
-  "name": "michaeldomo/yii2-robocassa",
+  "name": "michaeldomo/yii2-robokassa",
   "description": "Yii2 extension for robokassa payment gateway",
   "type": "yii2-extension",
   "keywords": ["yii2", "robokassa"],
