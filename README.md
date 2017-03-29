@@ -4,6 +4,12 @@ Yii2 extension for robokassa payment gateway
 ## Warning!
 This extension hasn't been tested yet!!!
 
+## Instalation
+
+Install through composer
+
+```composer require michaeldomo/yii2-robokassa```
+
 ```
 'components' => [
     'robokassa' => [
